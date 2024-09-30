@@ -1,0 +1,27 @@
+
+models.png
+size: 128, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+car
+  rotate: false
+  xy: 2, 3
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+policecar
+  rotate: false
+  xy: 66, 2
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+shieldedCar
+  rotate: false
+  xy: 34, 3
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
